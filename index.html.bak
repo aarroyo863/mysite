@@ -1,92 +1,123 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html lang="en">
-<head>
-
-<title>Insert web page title here</title>
-
-<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" media="all" href="styles.css">
-
-</head>
-
-<body>
-
-<div id="tswcontainer">
-	<div id="tswheader">
-	<!-- start of header section: insert your logo, etc, here -->
-
-	<p>
-	Placeholder content for your header section. Replace it with your website's logo or name or page title or whatever.
-	</p>
-	<p>&nbsp;</p>
-
-	<!-- end of header section: insert your logo, etc, above this line -->
-	</div>
-
-	<div id="tswcontent">
-	<div id="tswcontproper">
-	<!-- start of content column: insert your content here -->
-
-	<h1>Welcome</h1>
-	<p>
-	Placeholder content. Replace everything here with your actual content.
-	</p>
-	<p>
-	If you want a navigation menu for your side column that looks like the one on thesitewizard.com,
-	you can generate your own and customize it, with the
-	<a href="https://www.thesitewizard.com/wizards/css-menu-buttons.shtml">Navigation Menu Wizard</a>.
-	It's free, just like the <a href="https://www.thesitewizard.com/wizards/layout.shtml">Layout Wizard</a>
-	that you used to create this.
-	</p>
-	<p>
-	And if you want a contact form (ie, one that your visitors can use to reach you), go to the
-	<a href="https://www.thesitewizard.com/wizards/feedbackform.shtml">Feedback Form Wizard</a>
-	to create one. Yes, it's free too.
-	</p>
-	<p>
-	Okay, that's it. I've run out of meaningful things to say for this placeholder content, and can't be bothered to
-	think up any more stuff that you're just going to delete anyway.
-	</p>
-	<p>
-	All the best for your site!
-	</p>
-	<p>&nbsp;</p>
-
-	<!-- end of content column: put your content above this line -->
-	</div>
-	</div>
-
-	<div id="tswsidecol">
-	<div id="tswsideproper">
-	<!-- start of side column: insert your navigation menu, etc, here -->
-
-	<p>
-	Placeholder content
-	for the side column:
-	please replace this
-	with your real stuff.
-	</p>
-
-	<!-- end of side column: put your navigation menu, etc, above this line -->
-	</div>
-	</div>
-	<div style="clear: both;"></div>
-
-	<div id="tswfooter">
-	<!-- start of footer section: insert your copyright notice, etc, here -->
-
-	<p>
-	Placeholder content for the footer: please replace these words with your real content.
-	</p>
-
-	<!-- end of footer section: insert your copyright notice, etc, above this line -->
-	</div>
-
-</div>
-
-</body>
-
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+  </head>
+  <body><br>
+    <div id="tswcontainer">
+      <div id="tswheader">
+        <!-- start of header section: insert your logo, etc, here -->
+        <p><img src="../../Pictures/images/download.png" alt="" style="width: 203px; height: 172px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </p>
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            Welcome to&nbsp;<big></big>Elon musk's plans for Mars<big> <br>
+            </big></b></p>
+        <big>
+          <!-- end of header section: insert your logo, etc, above this line -->
+        </big></div>
+      <big><big>
+          <h1></h1>
+        </big></big><big> </big>
+      <div id="tswcontent"><big> </big>
+        <div id="tswcontproper"><big>
+            <!-- start of content column: insert your content here -->
+            <p><b>Elon Musk's </b><big> </big></p>
+            <h1></h1>
+            <big> </big>
+            <p></p>
+            <p style="background-color: white;">&nbsp;&nbsp;&nbsp; Elon Reeve
+              Musk's is one of the most rich people stand around US$239-billion
+              in net worth. Elon Reeve Mask's was born in June 28, 1971. Musk is
+              the Ceo and chief technology offier of SpaceX. The Ceo and product
+              architect of Tesla. Elon musk's goal for the human race is making
+              a new world in Mars where is like earth. </p>
+          </big>
+          <p><big>&nbsp;&nbsp;&nbsp; However Musk's says dropping nuclear
+              weapons at Mar's poles would help the planet warm up quickly.</big></p>
+          <p><b> &nbsp;&nbsp;&nbsp; Facts about Elon Reeve Musk's. </b></p>
+          <ul>
+            <li> He's from south Africa.<br>
+            </li>
+            <li>He's have big plans for Mar's and for Tesla.</li>
+            <li>He's age is 52 years old right now,</li>
+            <ol>
+            </ol>
+            <ol>
+            </ol>
+            <ol>
+            </ol>
+          </ul>
+          <p>&nbsp;&nbsp;&nbsp; Most of people don't know the cost of a
+            spaceship some spaceship can cost around $1.7B dollars. However,
+            Elon Musk's had done one of this goal by landing his spaceship a few
+            years ago. Elon did this because to used less cost of buying
+            air-create and less trash around earth atmosphere. what can leave to
+            dead people because once the trash is in the atmosphere of Earth it
+            can go to 600km around orbits, but once it falls to the Earth it can
+            leads to many die human and land. </p>
+          <p>For an example: a part of a spaceship as big as 10ft long and 6ft
+            wild can leave too a country too lost from earth, or may leave huge
+            whole the earth with can leave million people around the world died.<span
+              style="color: #070707;"></span></p>
+          where in the future billion of people can live, where plant can grow,
+          but can be the next 100 years to go. <br>
+          <p> </p>
+          <p>&nbsp;</p>
+          <h1 style="margin-left: 40px;">&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="../../Pictures/images/download.png"
+              alt="" style="width: 172px; height: 172px;"></h1>
+          <!-- end of content column: put your content above this line --> </div>
+      </div>
+      <div id="tswsidecol">
+        <div id="tswsideproper">
+          <!-- start of side column: insert your navigation menu, etc, here -->
+          <p></p>
+          <p><big><big> </big></big></p>
+          <h1><big><big><img src="../../Pictures/images/gettyimages-1229892983-square.jpg"
+                  alt="" style="width: 241px; height: 270px;"></big></big></h1>
+          <big><big> </big></big>
+          <p></p>
+          <!-- end of side column: put your navigation menu, etc, above this line -->
+        </div>
+      </div>
+      <div style="clear: both;"></div>
+      <div id="tswfooter">
+        <p> <a href="2page.html">2nd Page</a> </p>
+        <!-- start of footer section: insert your copyright notice, etc, here -->
+        <p style="background-color: white;"><br>
+        </p>
+        <h1><img src="../../Pictures/images/images.jfif" alt="" style="width: 664px; height: 421px;"></h1>
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        <h1> </h1>
+        <h1><img src="../../Pictures/images/KSC-20200117-PH-SPX01_0001_medium-e1678724652148.jpg"
+            alt="" style="width: 662px; height: 412px;"> &nbsp; &nbsp; &nbsp;
+          &nbsp; &nbsp; &nbsp;&nbsp; </h1>
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        <h1></h1>
+        <img src="../../Pictures/images/starship-900000-fuel-per-launch.jpg" alt="3"
+          style="width: 662px; height: 330px;">
+        <h1></h1>
+        <br>
+        <!-- end of footer section: insert your copyright notice, etc, above this line -->
+      </div>
+    </div>
+  </body>
 </html>
