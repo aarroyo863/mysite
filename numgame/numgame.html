@@ -6,18 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>numgame</title>
 </head>
-<body> onlond="londgame()">
+<body onload="loadGame()">
     <h1> Number Guessing game</h1>
-    <p>Rules;</p>
+    <p>Rules:</p>
 
     <label>Guess</label>
     <input id="guess" type="number" min="0">
-    <button onclick="makeguess()">Guess!</button>
+    <button onclick="makeGuess()">Guess!</button>
 
     <br/>
 
     <p id="report">Start of report</p>
 
-    <script src="numgame/js"></script>
+    <script src="numgame.js"></script>
 </body>
 </html>

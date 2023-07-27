@@ -20,8 +20,6 @@ function makeGuess() {
         report.innerHTML += `<br/>[${myGuess}] too large`;
             } 
     else { 
-        report.innerHTML += `<br/>[${myGuess}] is correct! :) good job`;
+        report.innerHTML += `<br/>[${myGuess}] is correct! :) good job to win`;
     }
 }
-   
-       
