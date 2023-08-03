@@ -23,3 +23,4 @@ function makeGuess() {
         report.innerHTML += `<br/>[${myGuess}] is correct! :) good job to win`;
     }
 }
+

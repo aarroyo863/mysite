@@ -2,40 +2,41 @@ body{
     
     background:linear-gradient(47deg, rgba(255,0,0,1) 0%, rgba(255,89,0,1) 10%,rgba(255,244,0,1) 20%, rgba(166,255,0,1) 30%,
     rgba(0,255,16,1) 40%, rgba(0,255,222,1) 50%, rgba(0,108,255,1) 60%, rgba(0,1,255,1) 65%,
-    rgba(141,0,255,1) 70%, rgba(226,0,255,1) 80%, rgba(255,0,166,1) 90%,rgba(247,0,0,1) 100%);
-background-size: 600% 300%;
+    rgba(141,0,255,1) 70%, rgba(226,0,255,1) 80%, rgba(255,0,166,1) 90%, rgba(247,0,0,1) 100%);
+background-size: 600% 100%;
 animation: gradient 10s linear infinite;
 animation-direction: alternate;
 
 }
 
 h1 {
-    color: darkred;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    font-weight: bold;
-    font-size: 70px;
-    
- 
- }
+   color: darkred;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+   font-weight: bold;
+   font-size: large;
+   
 
+}
 
- h1:hover {
-    color: rgb(15,150,184);
-    outline-style: double;
-    outline-width: 7px;
-    outline-color: gold;
-    margin-right: 50%;
-      
-  }
+h1:hover {
+  color: darkred;
+  transform: scale(1.8);
+  outline-style: double;
+  outline-width: 7px;
+  outline-color: gold;
+  margin-right: 85%;
+  
+  
+}
 
 p{
-  color: rgb(15,150,184);
+  color: coral;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 50px;
   outline-style: groove;
   outline-width: 8px;
-  outline-color: rgb(15, 150, 184);
+  outline-color: blue;
   margin-right: 86%;
 
 }
